@@ -1,8 +1,12 @@
 # qnpc
 
-> A Vue.js project
+> 去哪拼车
 
-## Build Setup
+### 项目技术栈
+
+Vue2,vant,axios,vuex
+
+### Build Setup
 
 ``` bash
 # install dependencies
